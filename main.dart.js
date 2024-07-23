@@ -29155,7 +29155,7 @@ throw A.c(A.aS4("Invalid "+a+": "+s.a,s.b,J.aAW(s)))}else if(t.bE.b(q)){r=q
 throw A.c(A.bU("Invalid "+a+' "'+b+'": '+J.aLX(r),J.aAW(r),J.aLY(r)))}else throw p}},
 avt(a){var s=0,r=A.R(t.ZH),q,p=2,o,n,m,l,k,j,i,h,g,f,e
 var $async$avt=A.S(function(b,c){if(b===1){o=c
-s=p}while(true)switch(s){case 0:i="insightmatebackend.azurewebsites.net/generate"
+s=p}while(true)switch(s){case 0:i="https://insightmatebackend.azurewebsites.net/generate"
 h=t.N
 g=A.aG(["Content-Type","application/json"],h,h)
 f=B.cB.mU(A.aG(["prompt",a],h,t.z))
